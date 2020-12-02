@@ -10,7 +10,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 ## 2020 FALL EVENTS
 
  * December 4, 12:00 (noon): *Quick introduction to Game Theory by the iterated Prisoner's Dilemma* by Suzu Naito. [Please enrol here.](https://docs.google.com/spreadsheets/d/1cMpKr1SfSOh01t73DsZg5_7qsQcinKrqUQMndiVfaXc/edit?usp=sharing) 
- * November 23, 10am: *How to model traffic jams mathematically* by Sayaka Eguchi.
+ * November 23, 10am: [How to model traffic jams mathematically](SLIDES/20201123trafficjam.pdf) by Sayaka Eguchi.
 
 Then number of sets is limited, enrollment is handled on a first come first served basis. Depending on the demand we may apply an algorithm to maximize the number of students taking part in infinity room events. Enrolment can be done only through an AIU account. Presenters and participants will be sent an email about the information for the online meeting.
 
