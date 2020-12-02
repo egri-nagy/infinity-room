@@ -2,20 +2,21 @@
 
 The Infinity Room is both a physical (a self-access center) and a virtual space (online meetings) designed for experiencing Mathematics in a positive and enjoyable way. Emphasizing the playful, the aesthetic and the mind-blowing aspects, the room is a gateway into collaborative mathematical research with paths leading to other STEM subjects and to a well-rounded liberal art worldview.
 
+You can earn exam grade points for this course by participating in the Infinity Room activities. You can be a presenter or an active participant.
+ A *presenter* works on a half an hour activity session with the instructor. This is like a mini research project. 10 grade points.
+ A *participant* comes to the event, and works through the activities given by the presenter. 3 grade points. 
+
+
 ## 2020 FALL EVENTS
 
- * December 4, 12:00 (noon): *Quick introduction to Game Theory by the iterated Prisoner's Dilemma* by Suzu Naito. 
+ * December 4, 12:00 (noon): *Quick introduction to Game Theory by the iterated Prisoner's Dilemma* by Suzu Naito. [Please enrol here.](https://docs.google.com/spreadsheets/d/1cMpKr1SfSOh01t73DsZg5_7qsQcinKrqUQMndiVfaXc/edit?usp=sharing) 
  * November 23, 10am: *How to model traffic jams mathematically* by Sayaka Eguchi.
 
-Then number of sets is limited, enrollment is handled on a first come first served basis. Depending on the demand we may apply an algorithm to maximize the number of students taking part in infinity room events.
+Then number of sets is limited, enrollment is handled on a first come first served basis. Depending on the demand we may apply an algorithm to maximize the number of students taking part in infinity room events. Enrolment can be done only through an AIU account. Presenters and participants will be sent an email about the information for the online meeting.
 
 
 --------------------------------------------------
 
-You can earn exam grade points for this course by participating in the Infinity Room activities. You can be a presenter or an active participant.
-
-    A presenter works on a half an hour activity session with the instructor. This is like a mini research project. 10 grade points.
-    A participant comes to the event, and works through the activities given by the presenter. 3 grade points. 
 
 ## Frequently Asked Questions
 
