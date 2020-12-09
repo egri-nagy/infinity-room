@@ -9,6 +9,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 ## 2020 FALL EVENTS
 
+ * December 10, 19:00: Solving a mathematical puzzle by Riko Tomita, [please enrol here](https://docs.google.com/spreadsheets/d/13Jrk9LGL9GuYzvvk6cbnyWe5q4wjve0lyuT0ssfFjDQ/edit?usp=sharing)
  * December 4, 12:00 (noon): [Quick introduction to Game Theory by the iterated Prisoner's Dilemma](SLIDES/20201204prisonersdilemma.pdf) by Suzu Naito.
  * November 23, 10am: [How to model traffic jams mathematically](SLIDES/20201123trafficjam.pdf) by Sayaka Eguchi.
 
