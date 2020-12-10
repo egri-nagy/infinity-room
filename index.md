@@ -9,12 +9,13 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 ## 2020 FALL EVENTS
 
- * December 10, 19:00: Solving a mathematical puzzle by Riko Tomita, [please enrol here](https://docs.google.com/spreadsheets/d/13Jrk9LGL9GuYzvvk6cbnyWe5q4wjve0lyuT0ssfFjDQ/edit?usp=sharing)
+ * December 10, 19:00: [Logical puzzle: Find the counterfeit coin](SLIDES/20201210CounterfeitCoin.pdf) by Riko Tomita.
  * December 4, 12:00 (noon): [Quick introduction to Game Theory by the iterated Prisoner's Dilemma](SLIDES/20201204prisonersdilemma.pdf) by Suzu Naito.
  * November 23, 10am: [How to model traffic jams mathematically](SLIDES/20201123trafficjam.pdf) by Sayaka Eguchi.
 
 Then number of sets is limited, enrollment is handled on a first come first served basis. Depending on the demand we may apply an algorithm to maximize the number of students taking part in infinity room events. Enrolment can be done only through an AIU account. Presenters and participants will be sent an email about the information for the online meeting.
 
+[Collection of YouTube videos related to previous sessions](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
 --------------------------------------------------
 
