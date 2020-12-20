@@ -10,6 +10,8 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 ## 2020 FALL EVENTS
 
+ * December 21, 16:00: Q&A on Gödel's Incompleteness Theorems by Cotona Koshizawa and Kyoko Fukuyama [please subscribe here](https://docs.google.com/spreadsheets/d/19sIts-kI01t8grnhea3TZh32ShvFzN8nILDi4yvgoic/edit?usp=sharing)
+ * December 21, 17:00: Number Sequences by Nanako Akiyama [please subsrcibe here](https://docs.google.com/spreadsheets/d/1M6F5H_uVuVoUOnfpmv7P2n2tuxXjxKRuzqL4dLLdb-0/edit?usp=sharing).
  * December 10, 19:00: [Logical puzzle: Find the counterfeit coin](SLIDES/20201210CounterfeitCoin.pdf) by Riko Tomita.
  * December 4, 12:00 (noon): [Quick introduction to Game Theory by the iterated Prisoner's Dilemma](SLIDES/20201204prisonersdilemma.pdf) by Suzu Naito.
  * November 23, 10am: [How to model traffic jams mathematically](SLIDES/20201123trafficjam.pdf) by Sayaka Eguchi.
