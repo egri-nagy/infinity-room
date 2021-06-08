@@ -8,6 +8,11 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 [Collection of YouTube videos related to previous sessions](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
+## 2021 SPRING EVENTS
+### In preparation
+ * *Bayesian Inference* by Yui Sato and Sorana Owatari
+ * *Shogi Introduction* by Kiwamu Sato on behalf of Aiu Board Game Club
+
 ## 2020 FALL EVENTS
 
  * December 21, 16:00: [Q&A on Gödel's Incompleteness Theorems](SLIDES/20201221Godel.pdf) by Cotona Koshizawa and Kyoko Fukuyama.
