@@ -14,7 +14,6 @@ You can earn exam grade points for this course by participating in the Infinity 
 * July 9, 10:00 *Shogi Introduction* by Kiwamu Sato on behalf of the AIU Board Game Club
 
 ### In preparation
- * 
  * *Golden ratio* by Rhianne Booth,
  * *Bayesian Inference* by Yui Sato and Sorana Owatari
  * *4x4 Go Puzzles* Traditional board games are intellectual challenges, but not everyone finds their fighting aspect appealing. In this session, we turn Go, the ancient competitive game, into a series of puzzles. On a miniature 4-by-4 board, the participants will face challenges starting from trivial questions to complex problems. Working through the puzzles leads to an understanding of the essence of Go.  In addition, we will emphasize the meta-cognition aspects of problem solving as well.
