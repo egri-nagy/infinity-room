@@ -10,7 +10,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 ## 2021 SPRING EVENTS
 
-* July 6, 20:00 *Welcome to Japanese Mathematics!* by Hinako Ishikawa
+* July 6, 20:00 *Welcome to Japanese Mathematics!* by Hinako Ishikawa [register here](https://forms.gle/1VQVcMqGUDa4S5gj8)
 * July 9, 10:00 *Shogi Introduction* by Kiwamu Sato on behalf of the AIU Board Game Club
 
 ### In preparation
