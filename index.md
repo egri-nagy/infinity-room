@@ -10,7 +10,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 ## 2021 SPRING EVENTS
 
-* July 9, 10:00 *Shogi Introduction* by Kiwamu Sato on behalf of Aiu Board Game Club ()
+* July 9, 10:00 *Shogi Introduction* by Kiwamu Sato on behalf of the AIU Board Game Club
 
 ### In preparation
  * *Wasan* by Hinako Ishikawa
