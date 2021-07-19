@@ -9,14 +9,16 @@ You can earn exam grade points for this course by participating in the Infinity 
 [Collection of YouTube videos related to previous sessions](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
 ## 2021 SPRING EVENTS
-
+* July 23, 13:30 *Bayesian Inference* by Yui Sato and Sorana Owatari
+* July 23, TBA *Golden ratio* by Rhianne Booth, Kana Himeno
+* July 22, 17:30 *River-crossing puzzles* by Chihiro and Tomoka
 * July 6, 20:00 *Welcome to Japanese Mathematics!* by Hinako Ishikawa [register here](https://forms.gle/1VQVcMqGUDa4S5gj8)
 * July 9, 10:00 *Shogi Introduction* by Kiwamu Sato on behalf of the AIU Board Game Club [register here](https://forms.gle/Rhe2kBzQ8gxBDLk76)
 
 ### In preparation
- * *River-crossing puzzles* by Chihiro and Tomoka
- * *Golden ratio* by Rhianne Booth, Kana Himeno
- * *Bayesian Inference* by Yui Sato and Sorana Owatari
+ 
+ 
+
  * *4x4 Go Puzzles* Traditional board games are intellectual challenges, but not everyone finds their fighting aspect appealing. In this session, we turn Go, the ancient competitive game, into a series of puzzles. On a miniature 4-by-4 board, the participants will face challenges starting from trivial questions to complex problems. Working through the puzzles leads to an understanding of the essence of Go.  In addition, we will emphasize the meta-cognition aspects of problem solving as well.
  
 
