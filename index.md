@@ -17,7 +17,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 * July 22, 17:30 *River-crossing puzzles* by Chihiro Ono and Tomoka Yokota. Classic puzzles and their generalizations.[register here](https://forms.gle/ncu4y1HeSsXG14YP7)
 * July 22, 18:30 *4x4 Go Puzzles* by Attila Egri-Nagy. Traditional board games are intellectual challenges, but not everyone finds their fighting aspect appealing. In this session, we turn Go, the ancient competitive game, into a series of puzzles. On a miniature 4-by-4 board, the participants will face challenges starting from trivial questions to complex problems. Working through the puzzles leads to an understanding of the essence of Go.  In addition, we will emphasize the meta-cognition aspects of problem solving as well.[register here](https://forms.gle/mmfciDa5Am4AMYZR7)
 * July 23, 13:30 *Bayesian Inference* by Yui Sato and Sorana Owatari. [register here](https://forms.gle/qbG36myQfbBw123u8)
-* July 23, TBA *Golden ratio* by Rhianne Booth, Kana Himeno. [register here](https://forms.gle/XgXVL87NSdFXoqjc7)
+* July 23, 20:00 *Golden ratio* by Rhianne Booth, Kana Himeno. [register here](https://forms.gle/XgXVL87NSdFXoqjc7)
  
 
 ## 2020 FALL EVENTS
