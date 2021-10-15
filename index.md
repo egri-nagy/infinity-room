@@ -8,6 +8,15 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 [Collection of YouTube videos related to previous sessions](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
+## 2021 FALL EVENTS
+ 
+ ### KITES AND DARTS PENROSE TILING CONTEST
+ [AIMS page](https://aims.aiu.ac.jp/course/view.php?id=4934#section-2) for the competition.
+ 
+ ### PROBLEM SOLVING CHALLENGE
+ 
+ ### PRESENTATIONS
+
 ## 2021 SPRING EVENTS
 
 * July 6, 20:00 *Welcome to Japanese Mathematics!* by Hinako Ishikawa [register here](https://forms.gle/1VQVcMqGUDa4S5gj8)
