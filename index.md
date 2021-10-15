@@ -10,12 +10,12 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 ## 2021 FALL EVENTS
  
- ### KITES AND DARTS PENROSE TILING CONTEST
+### KITES AND DARTS PENROSE TILING CONTEST
  [AIMS page](https://aims.aiu.ac.jp/course/view.php?id=4934#section-2) for the competition.
  
- ### PROBLEM SOLVING CHALLENGE
+### PROBLEM SOLVING CHALLENGE
  
- ### PRESENTATIONS
+### PRESENTATIONS
 
 ## 2021 SPRING EVENTS
 
