@@ -15,7 +15,7 @@ You can earn exam grade points for this course by participating in the Infinity 
  
 ### PROBLEM SOLVING CHALLENGE
  
-### PRESENTATIONS
+### HALF-HOUR SESSIONS
 
 ## 2021 SPRING EVENTS
 
