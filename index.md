@@ -6,14 +6,18 @@ You can earn exam grade points for this course by participating in the Infinity 
  A *presenter* works on a half an hour activity session with the instructor. This is like a mini research project. It is worth 10 grade points (removing weight from your exam, but not substituting for it).
  A *participant* comes to the event, and works through the activities given by the presenter. Participating is rewarded by 3 grade points.
 
-[Collection of YouTube videos related to previous sessions](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
+[YouTube channel](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
 ## 2021 FALL EVENTS
  
 ### KITES AND DARTS PENROSE TILING CONTEST
+How far can you go in tiling the plane using kites and darts? You can find the tiles in the Infinity Room. Check the 
  [AIMS page](https://aims.aiu.ac.jp/course/view.php?id=4934#section-2) for the competition.
  
 ### PROBLEM SOLVING CHALLENGE
+
+Do you like interesting puzzles? Do you enjoy aha-moments? Here are some challenges for you!
+[AIMS page](https://aims.aiu.ac.jp/course/view.php?id=4934#section-1)
  
 ### HALF-HOUR SESSIONS
 
