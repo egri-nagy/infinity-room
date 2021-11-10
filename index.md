@@ -11,7 +11,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 ## 2021 FALL EVENTS
 
 ### HALF-HOUR SESSIONS
- * November 12, 12:00 Infinity Room (in person, limited to 4 persons) *4x4 Go puzzles for beginners* 
+ * November 12, 12:00 Infinity Room (in person, limited to 4 persons) *4x4 Go puzzles for beginners* [register here](https://forms.gle/Y38D54EM7wTGM5jj7)
 
 In preparation:
 
