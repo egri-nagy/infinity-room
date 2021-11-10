@@ -8,6 +8,14 @@ You can earn exam grade points for this course by participating in the Infinity 
 
 [YouTube channel](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
+### HALF-HOUR SESSIONS
+ * November 12, 12:00 Infinity Room (in person, limited to 4 persons) *4x4 Go puzzles for beginners* 
+
+In preparation:
+
+* The iterated prisoner's dilemma by Nanami and Jorge
+* Family background and academic performance by Sawa
+
 ## 2021 FALL EVENTS
 You can get more information by enrolling to [this course on AIMS.](https://aims.aiu.ac.jp/course/view.php?id=4934) 
 ### KITES AND DARTS PENROSE TILING CONTEST
@@ -19,7 +27,6 @@ How far can you go in tiling the plane using kites and darts? You can find the t
 Do you like interesting puzzles? Do you enjoy aha-moments? Here are some challenges for you!
 [AIMS page](https://aims.aiu.ac.jp/course/view.php?id=4934#section-1)
  
-### HALF-HOUR SESSIONS
 
 ## 2021 SPRING EVENTS
 
