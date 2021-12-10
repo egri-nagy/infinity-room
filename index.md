@@ -11,12 +11,13 @@ You can earn exam grade points for this course by participating in the Infinity 
 ## 2021 FALL EVENTS
 
 ### HALF-HOUR SESSIONS
+ * December 17, 13:00 (online) *Game theory and international relations* by Nanami Igusa and Jorge Manuel Chia registration TBA
+ * December 20, 16:00 (online) *Academic, mathematic performance and family background* by Sawa Sato registration TBA 
  * November 18, 12:00 Infinity Room (in person, limited to 4 persons) *4x4 Go puzzles for beginners* [register here](https://forms.gle/Y38D54EM7wTGM5jj7), quick video introduction to the session is available [here](https://youtu.be/T5Bk449xdj8)
 
 In preparation:
 
-* The iterated prisoner's dilemma by Nanami and Jorge
-* Family background and academic performance by Sawa
+* Confirmation Bias by Hinako Saito and Yuko Nitta.
 
 
 You can get more information by enrolling to [this course on AIMS.](https://aims.aiu.ac.jp/course/view.php?id=4934) 
