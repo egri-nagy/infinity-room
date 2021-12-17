@@ -13,7 +13,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 ### HALF-HOUR SESSIONS
  * December 17, 13:00 (online) *Game theory and international relations* by Nanami Igusa and Jorge Manuel Chia registration [here](https://forms.gle/ZW6SvRWSgjrUH1d39)
 
- * Dec 20, 12:00 (online), Confirmation Bias by Hinako Saito and Yuko Nitta. registration TBA
+ * Dec 20, 12:00 (online), Confirmation Bias by Hinako Saito and Yuko Nitta. registration [here](https://forms.gle/beWUrT27ccLXpASPA)
 
  * December 20, 16:00 (online) *Academic, mathematic performance and family background* by Sawa Sato registration [here](https://forms.gle/Zk5WgjrCsbMfuhQ59)
 
