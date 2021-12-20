@@ -11,7 +11,7 @@ You can earn exam grade points for this course by participating in the Infinity 
 ## 2021 FALL EVENTS
 
 ### HALF-HOUR SESSIONS
- * December 22, 11:00 (online) *Traditional Japanese Mathematical Games* by Kana Himeno and Miki Nagamori, registration TBA
+ * December 22, 11:00 (online) *Traditional Japanese Mathematical Games* by Kana Himeno and Miki Nagamori, registration  [here](https://forms.gle/NdvMseXgtVihM9gN6)
  * December 20, 16:00 (online) *Academic, mathematic performance and family background* by Sawa Sato registration [here](https://forms.gle/QxVU6YtGYyeSzo177)
   
  * Dec 20, 12:00 (online), Confirmation Bias by Hinako Saito and Yuko Nitta. registration [here](https://forms.gle/beWUrT27ccLXpASPA)
