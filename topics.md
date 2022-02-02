@@ -1,5 +1,5 @@
 # Topic ideas
-Here are some ideas for possible topics. These are often broad areas with dozens of possible sessions in each.
+Here are some ideas for possible topics. These are often broad areas with dozens of possible sessions in each. The list is constantly updated.
  * [Hilbert's hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel) - the signature topic of the Infinity Room is waiting for its first presenter.
  * [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function) - "message digest" one way functions that form the basis of modern cryptography. Here is a simple fun application: How can I prove that I solved the problem or I know something without actually telling the solution or revealing the information?
  * [Blockchain](https://en.wikipedia.org/wiki/Blockchain) & [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) - if there is no central bank to oversee the transactions, how can we make sure that no one is double spending? Some mathematics can take care of that.
