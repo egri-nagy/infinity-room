@@ -11,3 +11,5 @@ Here are some ideas for possible topics. These are often broad areas with dozens
     *  [Quoridor](https://en.wikipedia.org/wiki/Quoridor) - a game in which winning is literally done by finding a path (both on board and in the game tree). The Infinity Room has boards so a tournament can be organized.
     *  [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) simple entertaining puzzle which is actually very hard ([PSPACE-complete](https://en.wikipedia.org/wiki/PSPACE-complete))
     *  [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) - an excellent intorduction to the mathematical treatment of [symmetry](https://en.wikipedia.org/wiki/Symmetry)
+   
+   Feel free to dive into any of these topics and please contact us if you would like to discuss them.
