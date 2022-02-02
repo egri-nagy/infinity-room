@@ -2,6 +2,8 @@
 
 The Infinity Room is both a physical (a self-access center) and a virtual space (online meetings) designed for experiencing Mathematics in a positive and enjoyable way. Emphasizing the playful, the aesthetic and the mind-blowing aspects, the room is a gateway into collaborative mathematical research with paths leading to other STEM subjects and to a well-rounded liberal art worldview.
 
+[Topics](topics.md)
+
 You can earn exam grade points for this course by participating in the Infinity Room activities. You can be a presenter or an active participant.
  A *presenter* works on a half an hour activity session with the instructor. This is like a mini research project. It is worth 10 grade points (removing weight from your exam, but not substituting for it).
  A *participant* comes to the event, and works through the activities given by the presenter. Participating is rewarded by 3 grade points.
