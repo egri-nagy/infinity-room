@@ -5,5 +5,9 @@ Here are some ideas for possible topics. These are often broad areas with dozens
  * [Blockchain](https://en.wikipedia.org/wiki/Blockchain) & [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) - if there is no central bank to oversee the transactions, how can we make sure that no one is double spending? Some mathematics can take care of that.
  * [Knot theory](https://en.wikipedia.org/wiki/Knot_theory) - it might be surprising to many (as it is not part of any standard school curriculum), but there is a mathematical theory of knots. A presentation can have 3d-printed models of knots.
  * [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) - visual forms of computation that could very well be in the foundations of our physical universe.
-    * [Conway's Game of Life](Conway's Game of Life) 
-    * [Rule 30](https://en.wikipedia.org/wiki/Rule_30) the intiricate patterns of a sea shell explained by very simple rules. 
+   * [Conway's Game of Life](Conway's Game of Life) 
+   * [Rule 30](https://en.wikipedia.org/wiki/Rule_30) the intiricate patterns of a sea shell explained by very simple rules.
+ * Games and puzzles
+    *  [Quoridor](https://en.wikipedia.org/wiki/Quoridor) - a game in which winning is literally done by finding a path (both on board and in the game tree). The Infinity Room has boards so a tournament can be organized.
+    *  [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) simple entertaining puzzle which is actually very hard ([PSPACE-complete](https://en.wikipedia.org/wiki/PSPACE-complete))
+    *  [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) - an excellent intorduction to the mathematical treatment of [symmetry](https://en.wikipedia.org/wiki/Symmetry)
