@@ -1,5 +1,5 @@
 # Topic ideas
- * [Hilbert's hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
- * [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
- * [Blockcahin](https://en.wikipedia.org/wiki/Blockchain) & cryptocurrency
- * [Knot theory](https://en.wikipedia.org/wiki/Knot_theory)
+ * [Hilbert's hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel) - the signature topic of the Infinity Room is waiting for its first presenter.
+ * [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function) - "message digest" one way functions that form the basis of modern cryptography. Here is a simple fun application: How can I prove that I solved the problem or I know something without actually telling the solution or revealing the information?
+ * [Blockchain](https://en.wikipedia.org/wiki/Blockchain) & [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) - if there is no central bank to oversee the transactions, how can we make sure that no one is double spending? Some mathematics can take care of that.
+ * [Knot theory](https://en.wikipedia.org/wiki/Knot_theory) - it might be surprising to many (as it is not part of any standard school curriculum), but there is a mathematical theory of knots. A presentation can have 3d-printed models of knots.
