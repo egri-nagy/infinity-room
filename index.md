@@ -1,12 +1,12 @@
 ### Welcome to the Infinity Room
 
-The Infinity Room is both a physical (a self-access center) and a virtual space (online meetings) designed for experiencing Mathematics in a positive and enjoyable way. Emphasizing the playful, the aesthetic and the mind-blowing aspects, the room is a gateway into collaborative mathematical research with paths leading to other STEM subjects and to a well-rounded liberal art worldview.
+The Infinity Room is both a physical (a self-access center, at the opposite side of LDIC with a special selection of mathematical books that are strictly not textbooks) and a virtual space (online meetings) designed for experiencing Mathematics in a positive and enjoyable way. Emphasizing the playful, the aesthetic and the mind-blowing aspects, the room is a gateway into collaborative mathematical research with paths leading to other STEM subjects and to a well-rounded liberal art worldview.
+
+During the pandemic the Infinity Room developed its style through the interactive sessions hosted by students. These are 30 minutes long events where the participants can get a clear understanding of an interesting topic or an application. The hosts take special care to prepare interactive tasks instead of merely telling something. In short, the sessions are dedicated to the "art of explanation". Both hosts and participants can get academice [rewards](rewards.md).
 
 [Topics](topics.md)
 
-You can earn exam grade points for this course by participating in the Infinity Room activities. You can be a presenter or an active participant.
- A *presenter* works on a half an hour activity session with the instructor. This is like a mini research project. It is worth 10 grade points (removing weight from your exam, but not substituting for it).
- A *participant* comes to the event, and works through the activities given by the presenter. Participating is rewarded by 3 grade points.
+
 
 [YouTube channel](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
