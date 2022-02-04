@@ -13,3 +13,7 @@ Here are some ideas for possible topics. These are often broad areas with dozens
     *  [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) - an excellent intorduction to the mathematical treatment of [symmetry](https://en.wikipedia.org/wiki/Symmetry)
    
    Feel free to dive into any of these topics and please contact us if you would like to discuss them.
+   
+## STEM projects
+
+  * [M3SOL (AIU internal link)](https://docs.google.com/document/d/1zeiM610o7AY3I6e1WxBMwhaC1hMcqE8nrMKlEZILIrk) DIY solar charging kiosk
