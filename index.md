@@ -7,7 +7,7 @@ During the pandemic the Infinity Room developed its style through the interactiv
 [Topics](topics.md)
 
 ### Interviews
-  * [Momoka Ono, 2021.](Momoka.md)
+  * [Momoka Ono, 2021.](2021_Momoka.md)
 
 [YouTube channel](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
