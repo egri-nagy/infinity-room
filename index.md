@@ -11,6 +11,9 @@ During the pandemic the Infinity Room developed its style through the interactiv
 
 [YouTube channel](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
+## 2022 SPRING EVENTS
+ * *Pigeons, their holes, and combinatorics* by Suzu Naito, (in preparation)
+
 ## 2021 FALL EVENTS
 
 ### HALF-HOUR SESSIONS
