@@ -1,18 +1,24 @@
-### Welcome to the Infinity Room
+## Welcome to the Infinity Room
 
 The Infinity Room is both a physical (a self-access center, at the opposite side of LDIC with a special selection of mathematical books that are strictly not textbooks) and a virtual space (online meetings) designed for experiencing Mathematics in a positive and enjoyable way. Emphasizing the playful, the aesthetic and the mind-blowing aspects, the room is a gateway into collaborative mathematical research with paths leading to other STEM subjects and to a well-rounded liberal art worldview.
 
+### Interactive Sessions
+
 During the pandemic the Infinity Room developed its style through the interactive sessions hosted by students. These are 30 minutes long events where the participants can get a clear understanding of an interesting topic or an application. The hosts take special care to prepare interactive tasks instead of merely telling something. In short, the sessions are dedicated to the "art of explanation". Both hosts and participants can get academic [rewards](rewards.md).
 
-[Topics](topics.md)
+Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
+
+#### 2022 SPRING EVENTS
+ * *Pigeons, their holes, and combinatorics* by Suzu Naito, (in preparation)
+
+
 
 ### Interviews
   * [Momoka Ono, 4th year GS student, 2021.](2021_Momoka.md)
 
 [YouTube channel](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
 
-## 2022 SPRING EVENTS
- * *Pigeons, their holes, and combinatorics* by Suzu Naito, (in preparation)
+
 
 ## 2021 FALL EVENTS
 
