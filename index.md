@@ -9,7 +9,7 @@ During the pandemic the Infinity Room developed its style through the interactiv
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
 
 #### 2022 SPRING EVENTS
- * *Pigeons, their holes, and combinatorics* by Suzu Naito, July 21st Thursday 14:00 registration TBA
+ * *Pigeons, their holes, and combinatorics* by Suzu Naito, July 21st Thursday 14:00 registration  [here](https://forms.gle/XnaaegnMC4TW7ePSA)
  * *Beginner Shogi* by Kiwamu Sato (in preparation)
 
 
