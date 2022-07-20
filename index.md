@@ -15,6 +15,11 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 
 ### Interviews
+
+#### 2022
+  * [Akira Hoshida, Strange Attractor Themed House member](2022_Akira.md)
+
+#### 2021
   * [Momoka Ono, 4th year GS student, 2021.](2021_Momoka.md)
 
 [YouTube channel](https://www.youtube.com/playlist?list=PLI-mrGTUXmHWNi7sk3vKaBMftyjwvO9pF)
