@@ -10,7 +10,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 #### 2022 SPRING EVENTS
  * *Pigeons, their holes, and combinatorics* by Suzu Naito, July 21st Thursday 14:00 registration  [here](https://forms.gle/XnaaegnMC4TW7ePSA)
- * *Beginner Shogi* by Kiwamu Sato (in preparation)
+ * *Beginner Shogi* by Kiwamu Sato  [here](https://forms.gle/4kzkB4xo7ZQoouHcA))
 
 
 
