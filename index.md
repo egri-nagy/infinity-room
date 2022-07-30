@@ -17,6 +17,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 ### Interviews
 
 #### 2022
+  * [Suzu Naito, twice Infinity Room session host](2022_Suzu.md)
   * [Yoshinobu Fukuhara, Strange Attractor Themed House member](2022_Yoshinobu.md)
   * [Yuma Vlaicu, Strange Attractor Themed House member](2022_Yuma.md)
   * [Suzuka Iguchi, Strange Attractor Themed House member](2022_Suzuka.md)
