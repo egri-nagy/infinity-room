@@ -2,6 +2,8 @@
 The best thing to do to get some ideas about what to do is to walk into the Infinity Room itself and look at the books, pick one that looks interesting and see if it is indeed worth spending time with.
 ![IFR books](IRbooks.jpg)
 
+Another great source of ideas are the well-established mathematical YouTube channels like [Numberphile](https://www.numberphile.com/), [3Blue1Brown](https://www.3blue1brown.com/), [StandUpMaths](https://standupmaths.com/).
+
 Here are some more concrete ideas for possible topics. These are often broad areas with dozens of possible sessions in each. The list is constantly updated.
  * [Hilbert's hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel) - the signature topic of the Infinity Room is waiting for its first presenter.
  * [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function) - "message digest" one way functions that form the basis of modern cryptography. Here is a simple fun application: How can I prove that I solved the problem or I know something without actually telling the solution or revealing the information?
