@@ -1,5 +1,6 @@
 # Topic ideas
 The best thing to do to get some ideas about what to do is to walk into the Infinity Room itself and look at the books, pick one that looks interesting and see if it is indeed worth spending time with.
+![IFR books](IRbooks.jpg)
 
 Here are some more concrete ideas for possible topics. These are often broad areas with dozens of possible sessions in each. The list is constantly updated.
  * [Hilbert's hotel](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel) - the signature topic of the Infinity Room is waiting for its first presenter.
