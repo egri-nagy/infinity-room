@@ -8,6 +8,11 @@ During the pandemic the Infinity Room developed its style through the interactiv
 
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
 
+#### 2022 FALL EVENTS
+
+  * *Idea Maker Space* problem-solving workshops. In these sessions the participants will be given a challenging problem that requires no special mathamatics background knowledge. However, cooperation is needed in order to answer the question within 30 minutes.
+    * *Partitioning a rectangle* by Yoshinobou Fukuhara, November 21st Monday 12:00 registration TBA  
+
 #### 2022 SPRING EVENTS
  * *Pigeons, their holes, and combinatorics* by Suzu Naito, July 21st Thursday 14:00 registration  [here](https://forms.gle/XnaaegnMC4TW7ePSA)
  * *Beginner Shogi* by Kiwamu Sato, July 22nd Friday 16:00 registraion  [here](https://forms.gle/4kzkB4xo7ZQoouHcA)
