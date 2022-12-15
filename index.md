@@ -4,7 +4,7 @@ The Infinity Room is both a physical (a self-access center, at the opposite side
 
 ### Interactive Sessions
 
-During the pandemic the Infinity Room developed its style through the interactive sessions hosted by students. These are 30 minutes long events where the participants can get a clear understanding of an interesting topic or an application. The hosts take special care to prepare interactive tasks instead of merely telling something. In short, the sessions are dedicated to the "art of explanation". Both hosts and participants can get academic [rewards](rewards.md).
+During the pandemic the Infinity Room developed its style through the interactive sessions hosted by students. These are 30 minutes long events where the participants can get a clear understanding of an interesting topic or an application. The hosts take special care to prepare interactive tasks instead of merely telling something. In short, the sessions are dedicated to the "art of explanation" (see more on [How to host a session?](howto.md)). Both hosts and participants can get academic [rewards](rewards.md).
 
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
 
