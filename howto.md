@@ -20,4 +20,4 @@ switches the brain into learning mode.
 
 Knowledge is personal. Everyone has to earn it on their own. A good host simply tries to help that process.
 
-To recap: a good session plan is a careful selection of questions, not a list of facts on slides.
+To recap: *a good session plan is a careful selection of questions, not a list of facts on slides*.
