@@ -9,7 +9,7 @@ During the pandemic the Infinity Room developed its style through the interactiv
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
 
 #### 2022 FALL EVENTS
-
+  * *Math & Music* by Aya Kiyosawa, 19th December, Monday [details and registration available soon]
   * *Idea Maker Space* problem-solving workshops. In these sessions the participants will be given a challenging problem that requires no special mathematics background knowledge. However, cooperation is needed in order to answer the question within 30 minutes.
     * *Partitioning a rectangle* by Yoshinobu Fukuhara, November 21st Monday 12:00  in IFR, registration  [here](https://forms.gle/vrHcAmNzSptSmyK2A)  
 
