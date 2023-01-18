@@ -9,7 +9,7 @@ During the pandemic the Infinity Room developed its style through the interactiv
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
 
 #### 2023 WINTER EVENTS
-  * *Introducing a modern classic in board games: Quoridor* by Misuzu Okai from the AIU Board Game Club, Tuesday 24th January, 11:00-11:30 in IFR [registration TBA]
+  * *Introducing a modern classic in board games: Quoridor* by Misuzu Okai from the AIU Board Game Club, Tuesday 24th January, 11:00-11:30 in IFR [registration here](https://forms.gle/zu2dYK4K6qy4KhHR8)
 
 #### 2022 FALL EVENTS
   * *Math & Music* by Aya Kiyosawa, 19th December, Monday Dec 19, 13:00-13:30 in IFR  [registration here](https://forms.gle/whuzzVm81NLnWd7G8)
