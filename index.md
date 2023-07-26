@@ -11,7 +11,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 * [Minetest Builder's Contest (pilot)](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM)
 
-* *Random or not?* - GameDev Series 01 by Miho Kobayashi, July 31 12:00-12:30 in IFR [registration TBA]()
+* *Random or not?* - GameDev Series 01 by Miho Kobayashi, July 31 12:00-12:30 in IFR [registration here](https://forms.gle/ZWEoNfShiGnXD2oL8)
 
 #### 2023 WINTER EVENTS
   * *Introducing a modern classic in board games: Quoridor* by Misuzu Okai from the AIU Board Game Club, Tuesday 24th January, 11:00-11:30 in IFR [registration here](https://forms.gle/zu2dYK4K6qy4KhHR8)
