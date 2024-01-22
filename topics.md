@@ -12,6 +12,7 @@ Here are some more concrete ideas for possible topics. These are often broad are
  * [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) - visual forms of computation that could very well be in the foundations of our physical universe.
    * [Conway's Game of Life](Conway's Game of Life) 
    * [Rule 30](https://en.wikipedia.org/wiki/Rule_30) the intiricate patterns of a sea shell explained by very simple rules.
+ * [QR codes](https://qr.blinry.org/) 	
  * Games and puzzles
     *  [Quoridor](https://en.wikipedia.org/wiki/Quoridor) - a game in which winning is literally done by finding a path (both on board and in the game tree). The Infinity Room has boards so a tournament can be organized.
     *  [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) simple entertaining puzzle which is actually very hard ([PSPACE-complete](https://en.wikipedia.org/wiki/PSPACE-complete))
