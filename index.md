@@ -7,9 +7,11 @@ The Infinity Room is both a physical (a self-access center, at the opposite side
 During the pandemic the Infinity Room developed its style through the interactive sessions hosted by students. These are 30 minutes long events where the participants can get a clear understanding of an interesting topic or an application. The hosts take special care to prepare interactive tasks instead of merely telling something. In short, the sessions are dedicated to the "art of explanation" (see more on [How to host a session?](howto.md)). Both hosts and participants can get academic [rewards](rewards.md).
 
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
-#### 2023 SPRING EVENTS
 
-* [Minetest Builder's Contest (pilot)](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM)
+#### What's on?
+* [100π Challenge](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM)
+
+#### 2023 SPRING EVENTS
 
 * *Random or not?* - GameDev Series 01 by Miho Kobayashi, July 31 12:00-12:30 in IFR [registration here](https://forms.gle/ZWEoNfShiGnXD2oL8)
 
