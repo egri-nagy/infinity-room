@@ -18,7 +18,7 @@ Here are some more concrete ideas for possible topics. These are often broad are
     *  [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) simple entertaining puzzle which is actually very hard ([PSPACE-complete](https://en.wikipedia.org/wiki/PSPACE-complete))
     *  [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) - an excellent intorduction to the mathematical treatment of [symmetry](https://en.wikipedia.org/wiki/Symmetry)
     *  [Minetest](https://www.minetest.net/) is a free and open-source sandbox game a'la classic Minecraft. How does the world generated? How to decide where to plant the trees? Discover the mathematics behind artificial world generation: i.e. Perlin noise, Voronoi diagrams.
-    *  [Math Typography] Why does the quality of typesetting matter in communicating mathematical ideas? [LaTeX - the well-established method](https://en.wikibooks.org/wiki/LaTeX/Mathematics) and [Typst - the new markup language](https://typst.app/docs/reference/math/)
+ *  [Math Typography] Why does the quality of typesetting matter in communicating mathematical ideas? [LaTeX - the well-established method](https://en.wikibooks.org/wiki/LaTeX/Mathematics) and [Typst - the new markup language](https://typst.app/docs/reference/math/)
    
    Feel free to dive into any of these topics and please contact us if you would like to discuss them.
    
