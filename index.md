@@ -8,8 +8,11 @@ During the pandemic the Infinity Room developed its style through the interactiv
 
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
 
-### What's on?
+### What's on now?
 * [100π Challenge](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM)
+
+### Always available
+* [Books!](https://opa04in.aiu.ac.jp/webopac/ctlsrh.do?srhclm1=tag&cln=INF&search_mode=detail&tab_num=0&locale=en)
 
 #### 2023 SPRING EVENTS
 
