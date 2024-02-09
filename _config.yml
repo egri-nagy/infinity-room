@@ -5,5 +5,6 @@ header_pages:
   - howto.md
   - rewards.md
 
+minima:
 skin: solarized-light
 
