@@ -9,6 +9,9 @@ During the pandemic the Infinity Room developed its style through the interactiv
 Do you want to be a host? Just bring favourite topic/book/game? If you are looking for ideas, please check these tentative [topics.](topics.md)
 
 ### What's on now?
+
+* **Classical AI Search Algorithms** by Gakuto Okuyama and Naoya Murakami, Dec 17th, 12:00, Infinity Room. [registration here](https://forms.gle/u1hWRWM6cE6Rmd8e7)
+
 * **100π Challenge** A sandbox game (creative + survival) for the AIU community. [How to join?](MINETEST/howto.md) [What are the rules?](MINETEST/server-rules.md) If you enjoy this, please consider exploring the mathematics behind this game development, and share it with others! [more info (internal document)](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM)
 
 ### Always available
