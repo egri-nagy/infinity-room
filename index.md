@@ -12,6 +12,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 #### 2025 Spring
 * **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room [Register here!](https://forms.gle/Z4uNJGPPbhmWowDL6)
+* **Map Coloring** by Seigo Inamine, July 18, details TBA
 * **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Inifnity Room, [Register here!](https://forms.gle/xWqCsJFEo87Pvc9u6)
 
 #### 2024 Fall
