@@ -11,7 +11,8 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 ### What's on now?
 
 #### 2025 Spring
-* **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20 registration TBA
+* **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room [Register here!](https://forms.gle/Z4uNJGPPbhmWowDL6)
+* **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Inifnity Room, [Register here!](https://forms.gle/xWqCsJFEo87Pvc9u6)
 
 #### 2024 Fall
 * **Classical AI Search Algorithms** by Gakuto Okuyama and Naoya Murakami, Dec 17th, 12:00, Infinity Room. [registration here](https://forms.gle/u1hWRWM6cE6Rmd8e7)
