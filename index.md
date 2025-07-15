@@ -11,7 +11,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 ### What's on now?
 
 #### 2025 Spring
-* **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room [Register here!](https://forms.gle/Z4uNJGPPbhmWowDL6)
+* **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room 
 * **The Hat Game and the Code Cube** by Anju Yasu, Wednesday July 16  12:00-12:30 IFR Infinity Room [Register here!](https://forms.gle/Mn96VYUDLLzpyPkH7)
 * **Map Coloring & Graph Theory** by Seigo Inamine, July 18, 10:00-10:30 IFR Infinity Room [Register here!](https://forms.gle/FX36TfqgN6QJ2V7b7)
 * **Continuous or not?** by Sota Minato July 18th 13:00-13:30 IFR Infinity Room [Register here!](https://forms.gle/GbXK1sGmEUVru6L9A)
