@@ -12,12 +12,13 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 #### 2025 Spring
 * **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room 
-* **The Hat Game and the Code Cube** by Anju Yasu, Wednesday July 16  12:00-12:30 IFR Infinity Room [Register here!](https://forms.gle/Mn96VYUDLLzpyPkH7)
+* **The Hat Game and the Code Cube** by Anju Yasu, Wednesday July 16  12:00-12:30 IFR Infinity Room
 * **Map Coloring & Graph Theory** by Seigo Inamine, July 18, 10:00-10:30 IFR Infinity Room [Register here!](https://forms.gle/FX36TfqgN6QJ2V7b7)
 * **Continuous or not?** by Sota Minato July 18th 13:00-13:30 IFR Infinity Room [Register here!](https://forms.gle/GbXK1sGmEUVru6L9A)
 * **Formal systems, the limits of Mathemtaics, Gödel's Theorems** by Kotaro Ichimiya, Monday July 21st, IFR Infinity Room [Register here!](https://forms.gle/R5bjURp8n71CFgdUA)
+* **Sliding Puzzles** by Kaho Sakakibara, Tuesday July 22nd, IFR Infinity Room, [Register here!](https://forms.gle/TvEcw6TKGunU6Uk28)
 * **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Inifnity Room, [Register here!](https://forms.gle/xWqCsJFEo87Pvc9u6)
-* more to come... on **Hyperbolic Geometry**, **Asset Pricing**, **Sliding Puzzles**, **Golden Ratio and Pyramids**, **Big Ideas in Calculus**
+* more to come... on **Hyperbolic Geometry**, **Asset Pricing**, **Golden Ratio and Pyramids**, **Big Ideas in Calculus**
 
 [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) is open!
 
