@@ -20,6 +20,8 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Inifnity Room, [Register here!](https://forms.gle/xWqCsJFEo87Pvc9u6)
 * more to come... on **Hyperbolic Geometry**, **Asset Pricing**, **Golden Ratio and Pyramids**, **Big Ideas in Calculus**
 
+  ![Goldbach Game](GoldbachGame.jpg)
+
 [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) is open!
 
 #### 2024 Fall
