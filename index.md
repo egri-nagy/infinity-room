@@ -18,7 +18,8 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * **Formal systems, the limits of Mathematics, Gödel's Theorems** by Kotaro Ichimiya, Monday July 21st, 14:30-15:00 IFR Infinity Room [Register here!](https://forms.gle/R5bjURp8n71CFgdUA)
 * **Sliding Puzzles** by Kaho Sakakibara, Tuesday July 22nd, 11:50-12:20, IFR Infinity Room, [Register here!](https://forms.gle/TvEcw6TKGunU6Uk28)
 * **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Infinity Room, [Register here!](https://forms.gle/xWqCsJFEo87Pvc9u6)
-* more to come... on **Hyperbolic Geometry**, **Asset Pricing**, **Golden Ratio and Pyramids**, **Big Ideas in Calculus**
+* **Big Ideas in Calculus** by Hirari Ota, July 23rd, Wednesday, 13:00-13:30, IFR Infinity Room, [Register here!](https://forms.gle/z7ChnJqvLZCtbUoC6)
+* more to come... on **Hyperbolic Geometry**, **Asset Pricing**, **Golden Ratio and Pyramids**
 
   ![Goldbach Game](GoldbachGame.jpg)
 
