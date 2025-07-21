@@ -14,7 +14,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room 
 * **The Hat Game and the Code Cube** by Anju Yasu, Wednesday July 16  12:00-12:30 IFR Infinity Room
 * **Map Coloring & Graph Theory** by Seigo Inamine, July 18, 10:00-10:30 IFR Infinity Room
-* **Continuous or not?** by Sota Minato July 18th 13:00-13:30 IFR Infinity Room [Register here!](https://forms.gle/GbXK1sGmEUVru6L9A)
+* **Continuous or not?** by Sota Minato July 18th 13:00-13:30 IFR Infinity Room
 * **Formal systems, the limits of Mathematics, Gödel's Theorems** by Kotaro Ichimiya, Monday July 21st, 14:30-15:00 IFR Infinity Room [Register here!](https://forms.gle/R5bjURp8n71CFgdUA)
 * **Sliding Puzzles** by Kaho Sakakibara, Tuesday July 22nd, 11:50-12:20, IFR Infinity Room, [Register here!](https://forms.gle/TvEcw6TKGunU6Uk28)
 * **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Infinity Room, [Register here!](https://forms.gle/xWqCsJFEo87Pvc9u6)
