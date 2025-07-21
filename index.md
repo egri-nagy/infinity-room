@@ -21,6 +21,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * **Big Ideas in Calculus** by Hirari Ota, July 23rd, Wednesday, 13:00-13:30, IFR Infinity Room, [Register here!](https://forms.gle/z7ChnJqvLZCtbUoC6)
 * more to come... on **Hyperbolic Geometry**, **Asset Pricing**, **Golden Ratio and Pyramids**
 
+The Goldach Conjecture Game
   ![Goldbach Game](GoldbachGame.jpg)
 
 [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) is open!
