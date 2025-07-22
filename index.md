@@ -16,11 +16,12 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * **Map Coloring & Graph Theory** by Seigo Inamine, July 18, 10:00-10:30 IFR Infinity Room
 * **Continuous or not?** by Sota Minato July 18th 13:00-13:30 IFR Infinity Room
 * **Formal systems, the limits of Mathematics, Gödel's Theorems** by Kotaro Ichimiya, Monday July 21st, 14:30-15:00 IFR Infinity Room 
-* **Sliding Puzzles** by Kaho Sakakibara, Tuesday July 22nd, 11:50-12:20, IFR Infinity Room, [Register here!](https://forms.gle/TvEcw6TKGunU6Uk28)
+* **Sliding Puzzles** by Kaho Sakakibara, Tuesday July 22nd, 11:50-12:20, IFR Infinity Room
 * **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Infinity Room, [Register here!](https://forms.gle/xWqCsJFEo87Pvc9u6)
 * **Big Ideas in Calculus** by Hirari Ota, July 23rd, Wednesday, 13:00-13:30, IFR Infinity Room, [Register here!](https://forms.gle/z7ChnJqvLZCtbUoC6)
 * **Golden Ratio and Pyramids** by Kosuke Muto, July 25th, Friday, 10:00-10:30, IFR Infinity Room, [Register here!](https://forms.gle/2SVrs76W3HQHdMnC8)
-* more to come... on **Hyperbolic Geometry**, **Asset Pricing**,
+* **Hyperbolic Geometry** by May Eichhorn July 25th, 10:30-11:00, IFR Infinity Room, [Register here!](https://forms.gle/wBHvs2zUWCFRdNf59)
+* **Asset Pricing** by Justin Hua, Monday, July 28th, 12:00-12:30, IFR Infinity Room, [Register here!](https://forms.gle/QunFviXBNAxDF97bA)
 
 The Goldbach Conjecture Game
   ![Goldbach Game](GoldbachGame.jpg)
