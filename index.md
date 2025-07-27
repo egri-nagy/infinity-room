@@ -19,8 +19,8 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * **Sliding Puzzles** by Kaho Sakakibara, Tuesday July 22nd, 11:50-12:20, IFR Infinity Room
 * **Bayesian Gambling** by Jay Ueki, July 23rd, Wednesday 10:30-11:00, IFR Infinity Room, 
 * **Big Ideas in Calculus** by Hirari Ota, July 23rd, Wednesday, 13:00-13:30, IFR Infinity Room, 
-* **Golden Ratio and Pyramids** by Kosuke Muto, July 25th, Friday, 10:00-10:30, IFR Infinity Room, [Register here!](https://forms.gle/2SVrs76W3HQHdMnC8)
-* **Hyperbolic Geometry** by May Eichhorn July 25th, Friday, 10:30-11:00, IFR Infinity Room, [Register here!](https://forms.gle/wBHvs2zUWCFRdNf59)
+* **Golden Ratio and Pyramids** by Kosuke Muto, July 25th, Friday, 10:00-10:30, IFR Infinity Room, 
+* **Hyperbolic Geometry** by May Eichhorn July 25th, Friday, 10:30-11:00, IFR Infinity Room, 
 * **Asset Pricing** by Justin Hua, Monday, July 28th, 12:00-12:30, IFR Infinity Room, [Register here!](https://forms.gle/QunFviXBNAxDF97bA)
 
 The Goldbach Conjecture Game
