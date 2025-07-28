@@ -21,8 +21,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * **Big Ideas in Calculus** by Hirari Ota, July 23rd, Wednesday, 13:00-13:30, IFR Infinity Room, 
 * **Golden Ratio and Pyramids** by Kosuke Muto, July 25th, Friday, 10:00-10:30, IFR Infinity Room, 
 * **Hyperbolic Geometry** by May Eichhorn July 25th, Friday, 10:30-11:00, IFR Infinity Room, 
-* **Asset Pricing** by Justin Hua, Monday, July 28th, 12:00-12:30, IFR Infinity Room, [Register here!](https://forms.gle/QunFviXBNAxDF97bA)
-
+* **Asset Pricing** by Justin Hua, Monday, July 28th, 12:00-12:30, IFR Infinity Room, 
 The Goldbach Conjecture Game
   ![Goldbach Game](GoldbachGame.jpg)
 
