@@ -10,6 +10,11 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 ### What's on now?
 
+#### 2026 Winter
+* Category Theory Reading Club (details TBA)
+* Esoteric Project Euler (details TBA)
+* Retrocomputing Deom (details TBA)
+
 #### 2025 Spring
 * **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room 
 * **The Hat Game and the Code Cube** by Anju Yasu, Wednesday July 16  12:00-12:30 IFR Infinity Room
