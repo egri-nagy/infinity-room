@@ -11,9 +11,9 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 ### What's on now?
 
 #### 2026 Winter
-* Category Theory Reading Club, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th and Feb 4 [More Information](DOCS/CatTheoryReadingClub.pdf)
-* Esoteric Project Euler (details TBA)
-* Retrocomputing Deom (details TBA)
+* **Category Theory Reading Club**, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th and Feb 4 [More Information](DOCS/CatTheoryReadingClub.pdf)
+* **Esoteric Project Euler** problem-solving quiz night (details TBA)
+* **Retrocomputing Demo** time travel with a brand new piece of a 43 years old technology (details TBA)
 
 #### 2025 Spring
 * **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room 
