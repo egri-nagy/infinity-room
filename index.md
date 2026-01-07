@@ -12,7 +12,8 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 #### 2026 Winter
 * **Category Theory Reading Club**, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th and Feb 4 [More information of category theory, recommended reading and FAQ](DOCS/CatTheoryReadingClub.pdf)
-  * **Jan 7th** Definition of a Category (1st page of the notes, and/or first part of the Joy of Abstraction)
+  * **Jan 7th** Interests and motivations. Discussing *abstraction*.
+  * **Jab 14th** The first 6 chapters of Joy of Abstraction.
   * English/Japanese notes by Ștefan Yuma [Useful Links and Terminology](https://www.notion.so/Useful-Links-and-Terminology-2d88f2035b0d8065b7bee0e1139f9fb2)
 * **Esoteric Project Euler** problem-solving quiz night (details TBA)
 * **Retrocomputing Demo** time travel with a brand new piece of a 43 years old technology (details TBA)
