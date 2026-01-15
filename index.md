@@ -16,7 +16,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
   * **Jab 14th** The first 6 chapters of Joy of Abstraction.
   * English/Japanese notes by Ștefan Yuma [Useful Links and Terminology](https://www.notion.so/Useful-Links-and-Terminology-2d88f2035b0d8065b7bee0e1139f9fb2)
 * **Esoteric Project Euler** problem-solving quiz night (details TBA)
-* **Retrocomputing Demo** time travel with a brand new piece of a 43 years old technology (details TBA)
+* **Retrocomputing Demo** time travel with a brand new piece of a 44 years old technology, the Commodore 64 (January 30th, Friday 12:00-14:00)
 
 #### 2025 Spring
 * **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room 
