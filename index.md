@@ -13,10 +13,13 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 #### 2026 Winter
 * **Category Theory Reading Club**, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th and Feb 4 [More information of category theory, recommended reading and FAQ](DOCS/CatTheoryReadingClub.pdf)
   * **Jan 7th** Interests and motivations. Discussing *abstraction*.
-  * **Jab 14th** The first 6 chapters of Joy of Abstraction. [Notes](DOCS/CatTheoryNotes.pdf)
+  * **Jan 14th** The first 6 chapters of Joy of Abstraction. [Notes](DOCS/CatTheoryNotes.pdf)
+  * **Jan 21st** On mathematical notation, equivalence relations.
   * English/Japanese notes by Ștefan Yuma [Useful Links and Terminology](https://www.notion.so/Useful-Links-and-Terminology-2d88f2035b0d8065b7bee0e1139f9fb2)
 * **Esoteric Project Euler** problem-solving quiz night (details TBA)
+* [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) update to Luanti 5.15 coming soon!
 * **Retrocomputing Demo** time travel with a brand new piece of a 44 years old technology, the Commodore 64 (January 30th, Friday 12:00-14:00)
+![](PICS/2026RetroShow.png)
 
 #### 2025 Spring
 * **Enjoy Prime Mysteries** by Haru Morita, July 15th, 11:50-12:20, IFR Infinity Room 
