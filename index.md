@@ -11,10 +11,13 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 ### What's on now?
 
 #### 2026 Winter
-* **Category Theory Reading Club**, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th and Feb 4 [More information of category theory, recommended reading and FAQ](DOCS/CatTheoryReadingClub.pdf)
+* **Category Theory Reading Club**, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th, Feb 4 and Feb 25. [More information of category theory, recommended reading and FAQ](DOCS/CatTheoryReadingClub.pdf)
   * **Jan 7th** Interests and motivations. Discussing *abstraction*.
   * **Jan 14th** The first 6 chapters of Joy of Abstraction. [Notes](DOCS/CatTheoryNotes.pdf)
   * **Jan 21st** On mathematical notation, equivalence relations.
+  * **Jan 28th** Infinite and finite arithmetic (modular).
+  * **Feb 4th** Chapter 8 - the definition of a category
+  * **Feb 25th** Reader presentations
   * English/Japanese notes by Ștefan Yuma [Useful Links and Terminology](https://www.notion.so/Useful-Links-and-Terminology-2d88f2035b0d8065b7bee0e1139f9fb2)
 * **Esoteric Project Euler** problem-solving quiz night (details TBA)
 * [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) update to Luanti 5.15 coming soon!
