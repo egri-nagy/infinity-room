@@ -19,7 +19,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
   * **Feb 4th** Chapter 8 - the definition of a category
   * **Feb 25th** Reader presentations
   * English/Japanese notes by Ștefan Yuma [Useful Links and Terminology](https://www.notion.so/Useful-Links-and-Terminology-2d88f2035b0d8065b7bee0e1139f9fb2)
-* **Esoteric Project Euler** problem-solving quiz night (details TBA)
+* **Esoteric Project Euler** problem-solving programming contest Feb 27th, 10:30-12:00 IFR L101
 * [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) update to Luanti 5.15 coming soon!
 * **Retrocomputing Demo** time travel with a brand new piece of a 43-year-old technology, the Commodore 64 (January 30th, Friday 12:00-14:00)
 ![](PICS/2026RetroShow.png)
