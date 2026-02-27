@@ -11,6 +11,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 ### What's on now?
 
 #### 2026 Winter
+* [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) installfest March 2nd, L101, 12:00-14:30. Just bring computer and the setup will be done in 5 minutes.
 * **Category Theory Reading Club**, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th, Feb 4 and Feb 25. [More information of category theory, recommended reading and FAQ](DOCS/CatTheoryReadingClub.pdf)
   * **Jan 7th** Interests and motivations. Discussing *abstraction*.
   * **Jan 14th** The first 6 chapters of Joy of Abstraction. [Notes](DOCS/CatTheoryNotes.pdf)
