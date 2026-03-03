@@ -10,6 +10,12 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 
 ### What's on now?
 
+#### 2027 Spring plans
+* Category Theory Reading Club
+* Esoteric Euler Project (beginner and master level)
+* Go games (over the board) with instant AI review + human commentary
+* Mineclonia@Luanti 
+
 #### 2026 Winter
 * [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) installfest March 2nd, L101, 12:00-14:30. Just bring computer and the setup will be done in 5 minutes.
 * **Category Theory Reading Club**, Wednesdays 12:00-13:00 @IFR 2026 January 7th, 14th, 21st, 28th, Feb 4 and Feb 25. [More information of category theory, recommended reading and FAQ](DOCS/CatTheoryReadingClub.pdf)
