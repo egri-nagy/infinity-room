@@ -15,7 +15,7 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM)
 
 
-#### 2027 Spring plans
+#### 2026 Spring
 * Category Theory Reading Club
 * Esoteric Euler Project (beginner and master level)
 * Go games (over the board) with instant AI review + human commentary
