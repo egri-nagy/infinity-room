@@ -19,7 +19,8 @@ Do you want to be a host? Just bring favourite topic/book/game? If you are looki
 * Category Theory Reading Club
 * Esoteric Euler Project (beginner and master level)
 * Go games (over the board) with instant AI review + human commentary
-* Mineclonia@Luanti 
+* [IFR MAT314 public sessions](https://docs.google.com/spreadsheets/d/1LRI5H_doGcfWPv6_RytOT3dlg-OG10jhp-3awVsjWSU/edit?usp=sharing) 
+  
 
 #### 2026 Winter
 * [Game server](https://docs.google.com/document/d/1kFnMzjBXWFW6IENCdXHAd0gywJRkS25PbE08WFtZ-IM) installfest March 2nd, L101, 12:00-14:30. Just bring computer and the setup will be done in 5 minutes.
